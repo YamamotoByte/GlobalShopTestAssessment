@@ -1,0 +1,15 @@
+C:\Users\golde\source\repos\GlobalShopTestAssessment\bin\Debug\net6.0\GlobalShopTestAssessment.exe
+C:\Users\golde\source\repos\GlobalShopTestAssessment\bin\Debug\net6.0\GlobalShopTestAssessment.deps.json
+C:\Users\golde\source\repos\GlobalShopTestAssessment\bin\Debug\net6.0\GlobalShopTestAssessment.runtimeconfig.json
+C:\Users\golde\source\repos\GlobalShopTestAssessment\bin\Debug\net6.0\GlobalShopTestAssessment.dll
+C:\Users\golde\source\repos\GlobalShopTestAssessment\bin\Debug\net6.0\GlobalShopTestAssessment.pdb
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.csproj.AssemblyReference.cache
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.AssemblyInfoInputs.cache
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.AssemblyInfo.cs
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.csproj.CoreCompileInputs.cache
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.dll
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\refint\GlobalShopTestAssessment.dll
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.pdb
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\GlobalShopTestAssessment.genruntimeconfig.cache
+C:\Users\golde\source\repos\GlobalShopTestAssessment\obj\Debug\net6.0\ref\GlobalShopTestAssessment.dll
